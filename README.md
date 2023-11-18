@@ -1,6 +1,6 @@
 # IPFS_DataUpload
 
-# Note before running the program go to moralis.io create your account copy web3 api key and paste it in the .env section
+# Note before running the program go to moralis.io create your account. Then copy web3 api key and paste it in the .env section
 
 It is a very simple process for uploading data to IPFS using Moralis API
 
